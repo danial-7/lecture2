@@ -11,8 +11,8 @@ radius = 2.2
 ########################################################
 ### define area and save the value of expression to it #
 ########################################################
-area = pi * (radius ** 2)
+environment = pi * (radius * 2)
 ############################################
 ## print the calculated area of the circle #
 ############################################
-print(area)
+print(environment)
