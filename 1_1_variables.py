@@ -6,11 +6,11 @@
 #######################################
 
 # name = value
-name = "Ali"
-year = 1396
+name = "Dave"
+idnum = 223324
 
 ###########################################
 ###### accessing the value inside variable#
 ###########################################
 print(name)
-print(year)
+print(idnum)
