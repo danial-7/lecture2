@@ -7,5 +7,5 @@ print(5*text)
 ##########################
 # get a number from user #
 ##########################
-number=int(input("enter an integer\n"))
+number=input()
 print(5*number)
