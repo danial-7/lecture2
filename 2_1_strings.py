@@ -26,8 +26,11 @@
 ###########################################
 ### another sample of printing a varibale #
 ###########################################
-pi = 3.14
-print(pi)
-str_pi = str(pi)
-print("pi number is : ", pi)  # print each part of input separately
-print("pi number is : " + str(pi))  # concat two string
+#pi = 3.14
+#print(pi)
+#str_pi = str(pi)
+#print("pi number is : ", pi)  # print each part of input separately
+#print("pi number is : " + str(pi))  # concat two string
+s1="Alireza"
+s2="Hoseini"
+print("fName and lName: " + s1 +" "+ s2)
